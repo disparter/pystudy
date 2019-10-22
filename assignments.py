@@ -18,3 +18,10 @@ print(x)
 list_vowels = ['a','e','i']
 list_vowels += ['o', 'u',]
 print(list_vowels)
+
+my_list = [1, \
+ 2, 3\
+,4,5 \
+]
+
+print(my_list)
