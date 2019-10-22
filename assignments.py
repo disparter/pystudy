@@ -15,13 +15,20 @@ y = 10
 x += y
 print(x)
 
-list_vowels = ['a','e','i']
-list_vowels += ['o', 'u',]
+list_vowels = ['a', 'e', 'i']
+list_vowels += ['o', 'u', ]
 print(list_vowels)
 
 my_list = [1, \
- 2, 3\
-,4,5 \
-]
+           2, 3, \
+           4, 5 \
+           ]
 
 print(my_list)
+
+my_list2 = [1,
+            2, 3,
+            4, 5
+            ]
+
+print(my_list2)
